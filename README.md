@@ -46,7 +46,7 @@ spring:
   cloud:
     consul:
       enabled: true
-      hostname: localhost
+      host: localhost
       port: 8500
       ribbon:
         enabled: true
